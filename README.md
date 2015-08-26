@@ -1,3 +1,3 @@
 # varasto
-ensimmäinen varasto
-eka branch kokeilu
+ensimmäinen repo-kokeilu
+ensimmäinen branch
